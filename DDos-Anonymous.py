@@ -1,6 +1,5 @@
 #!/use/bin/python2
-#code by mohamed hacker
-#you tube:- https://www.youtube.com/channel/UCs2SEh8YKE0bBsd0s986iXw
+#code by fathz
 #cp -a DDos-Anonymous.py /data/data/com.termux/files/usr/bin
 import time
 import socket
@@ -9,7 +8,7 @@ import sys
 import os
 def usage():
     os.system("figlet Anonymous")
-    print "		Code By Mohamed-HaCkeR"
+    print "		FathzXRD"
     print '''
     use :
         python2 DDos-Anonymous.py <ip> <port> <packet>
