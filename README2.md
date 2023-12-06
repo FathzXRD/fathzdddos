@@ -6,7 +6,7 @@
     
         pkg install git 
         
-        git clone https://github.com/M0HAM3D/DDos-Anonymous 
+        git clone https://github.com/FathzXRD/fathzdddos
         
         cd DDos-Anonymous
         
@@ -18,7 +18,7 @@
    
        apt install git 
        
-       git clone https://github.com/M0HAM3D/DDos-Anonymous
+       git clone https://github.com/FathzXRD/fathzdddos
        
        cd DDos-Anonymous
        
